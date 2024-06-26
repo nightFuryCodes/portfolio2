@@ -6,7 +6,8 @@ import { Navbar } from './components/Navbar/Navbar'
 import Home from './components/Home/Home'
 import About from './components/About/About'
 import { Contact } from './components/Contact/Contact'
-import { Skills } from './components/About/Skills/Skills'
+import { Skills } from './components/Skills/Skills'
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
